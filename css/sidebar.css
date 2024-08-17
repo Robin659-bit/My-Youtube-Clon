@@ -18,6 +18,7 @@
 .sidebar-icon:hover {
     background-color: rgb(241, 237, 237);
     transition: 0.15s;
+    cursor:pointer;
 }
 .sidebar-icon img {
     height: 24px;
