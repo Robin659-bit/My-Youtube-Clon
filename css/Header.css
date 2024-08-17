@@ -28,6 +28,7 @@
     margin-left: 24px;
 
     margin-right: 25px;
+    cursor:pointer;
 }
 .youtube-logo {
     width: 92px;
@@ -79,6 +80,7 @@
 }
 .search-icon:hover {
     background-color: rgb(225, 224, 224);
+    cursor:pointer;
 }
 .search-icon:active {
     background-color: rgb(206, 202, 202);
@@ -120,6 +122,7 @@
 }
 .voice-search-icon:hover {
     background-color: rgb(225, 224, 224);
+    cursor:pointer;
 }
 .voice-search-icon:active {
     background-color: rgb(208, 205, 205);
@@ -145,6 +148,8 @@
     border-radius: 60px ;
     margin-right: 30px;
 }
+.chicken-icon:hover {
+    cursor:pointer;
 .notifications-icon {
     width: 25px;
     height: 25px;
@@ -182,10 +187,12 @@
 .create-icon:hover {
     background-color: rgb(225, 224, 224);
     transition: background-color 0.15s;
+    cursor:pointer;
 }
 .notiicon:hover {
     background-color: rgb(225,224,224);
     transition: background-color 0.15s;
+    cursor:pointer;
 }
 .create-icon:active {
     background-color: rgb(202, 197, 197);
